@@ -19,6 +19,9 @@
         <module>
             spring-security-client/spring-security-client
         </module>
+        <module>
+            oauth-authorization-server/oauth-authorization-server
+        </module>
     </modules>
 
 </project>
